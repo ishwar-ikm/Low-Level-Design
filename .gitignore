@@ -1,1 +1,7 @@
+# Ignore compiled class files
 *.class
+
+# Ignore build directories (commonly used in IDEs like Eclipse/IntelliJ)
+/bin/
+/out/
+/build/
