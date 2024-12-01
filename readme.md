@@ -8,8 +8,8 @@ This repository is a personal collection of examples and exercises created to de
 
 - **Design Patterns**:  
   Contains examples of all major design patterns, categorized into:
-  <!-- - **Creational Design Patterns**: For object creation mechanisms.
-  - **Structural Design Patterns**: For class and object composition. -->
+  <!-- - **Creational Design Patterns**: For object creation mechanisms. -->
+  - **Structural Design Patterns**: For class and object composition.
   - **Behavioral Design Patterns**: For object interaction and responsibilities.
 
 - **Low-Level Design (LLD)**:  
