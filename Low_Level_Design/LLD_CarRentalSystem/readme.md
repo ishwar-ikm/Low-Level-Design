@@ -101,6 +101,17 @@ This project is a Low-Level Design (LLD) of a **Car Rental System** that demonst
    Represents whether a vehicle is `ACTIVE` or `INACTIVE`.
 
 ---
+## How to Run
+
+1. **Compile all Java files**:
+   ```bash
+   javac Low_Level_Design\LLD_CarRentalSystem\*.java
+   ```
+
+2. **Run the Main class**:
+   ```bash
+   java Low_Level_Design\LLD_CarRentalSystem\Main.java
+   ```
 
 ---
 
