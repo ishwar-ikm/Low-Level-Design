@@ -5,7 +5,7 @@ import java.sql.Date;
 import Low_Level_Design.LLD_CarRentalSystem.product.Vehicle;
 
 public class Reservation {
-  int reservationId;
+  public int reservationId;
   User user;
   Vehicle vehicle;
   Date bookingDate;

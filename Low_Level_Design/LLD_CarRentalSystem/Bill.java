@@ -5,7 +5,7 @@ public class Bill {
   double totalBillAmount;
   boolean isBillPaid;
 
-  Bill(Reservation reservation) {
+  public Bill(Reservation reservation) {
     this.reservation = reservation;
     this.totalBillAmount = computeBillAmount();
     isBillPaid = false;
